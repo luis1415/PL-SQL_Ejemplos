@@ -1,1 +1,2 @@
-"# Oracle PL/SQL Ejemplos de paquetes y funciones" 
+# Oracle PL/SQL 
+Ejemplos de sintaxis, paquetes y funciones
